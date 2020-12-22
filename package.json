@@ -1,0 +1,30 @@
+{
+  "name": "template_engine",
+  "version": "1.0.0",
+  "description": "a team building app",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinbush24/HW10.git"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "Justin Bush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Justinbush24/HW10/issues"
+  },
+  "homepage": "https://github.com/Justinbush24/HW10#readme"
+}
